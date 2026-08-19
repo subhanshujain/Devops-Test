@@ -9,6 +9,16 @@ rg_group = {
         location = "eastus"
     }
 
+     rg3 = {
+        name = "testrg2"
+        location = "eastus"
+    }
+
+
+
+
+
+
 }
 
 subnet_nw = {
